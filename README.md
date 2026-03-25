@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Intelli Gloves<br>👯 I’m looking to collaborate on a real-time project<br>🌱 I’m currently learning Javascript<br>
+ I’m currently working on Intelli Gloves<br> I’m looking for MC Developers<br>
 
 
 ## 🌐 Socials:
